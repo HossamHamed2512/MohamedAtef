@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    font-family: 'Alexandria', sans-serif;
+    font-family: 'Syne', sans-serif;
     background: linear-gradient(135deg, #1a1a1a 0%, #0f0f0f 25%, #1a0505 50%, #0f0f0f 75%, #1a1a1a 100%);
     color: #ffffff;
     overflow-x: hidden;
@@ -96,7 +96,7 @@ body[dir="rtl"] {
 }
 
 body {
-    font-family: 'Alexandria', sans-serif;
+    font-family: 'Syne', sans-serif;
 }
 
 /* Language Toggle - Fix Display */
